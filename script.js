@@ -25,7 +25,7 @@ function someFn(num) {
 
 // 3° Questão
 
-function calculator(firstNum, secondNum) {
+function calculatorNumbers(firstNum, secondNum) {
   return callback => callback(firstNum, secondNum)
 }
 
