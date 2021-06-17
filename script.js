@@ -23,7 +23,7 @@ function someFn(num) {
   return funFunction
 }
 
-// 3° Questão
+// 3° Questão --> Ainda incompleta.
 
 function calculatorNumbers(firstNum, secondNum) {
   return callback => callback(firstNum, secondNum)
