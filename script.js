@@ -1,4 +1,4 @@
-// Primeira Questão
+// 1° Questão
 
 function someFun(value, callback) {
   callback(value.someProperty)
@@ -6,7 +6,7 @@ function someFun(value, callback) {
   return 1
 }
 
-// Segunda Questão
+// 2° Questão
 
 function someFn(num) {
   const funFunction = (params) => {
@@ -23,17 +23,17 @@ function someFn(num) {
   return funFunction
 }
 
-// Terceira Questão
+// 3° Questão
 
 function calculator(firstNum, secondNum) {
   return callback => callback(firstNum, secondNum)
 }
 
-// Quarta Questão
+// 4° Questão
 
-//Neste caso seria exibido no console, na seguinte ordem: 4 1 5 1.
+//Por tratar-se de questão teórica, responderei em comentário. Neste caso seria exibido no console, na seguinte ordem: 4 1 5 1.
 
-// Quinta Questão
+// 5° Questão
 
 function mathTable(mathNum) {
   for (let numProcess = 1; numProcess <= 10; numProcess++) {
